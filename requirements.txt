@@ -1,0 +1,6 @@
+flask
+SQLAlchemy
+databases[postgresql]
+psycopg2-binary
+jsonify
+werkzeug
